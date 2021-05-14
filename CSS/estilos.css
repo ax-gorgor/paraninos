@@ -9,22 +9,26 @@
 
 body {background: rgb(231, 231, 231);}
 
+ 
+
+.marshall{width: 180px; margin-top: -65px;  }
+
+
+ 
+
 .in-flex{min-width: 250px;}
 
 
-.container-all {max-width: 1000px;
-   margin: auto;
-   margin-top: 15px; }
- 
-.main-title {text-align: center; font-size: 44px;
-              font-weight:400px;
-          }
+
+
 
  
 
 .container-box { display: flex;
                  flex-wrap:wrap;
                  justify-content: center;
+               
+            
                 }
 
 
@@ -32,10 +36,12 @@ body {background: rgb(231, 231, 231);}
 
    text-decoration: none;
    color: #000;
+   margin: auto;
+    
 }
 
-.box41{width: 550px;
-      height:  530px;
+.box{width: 250px;
+      height:  380px;
      padding: 20px;
      margin: 25px;
      background:rgb(226, 226, 226) 20px;
@@ -48,9 +54,14 @@ body {background: rgb(231, 231, 231);}
       
    }
 
+.title2{font-size: 48px solid black;}
 
-
-.marshall {width: 100px; margin-top: -20px;}
+.marshal{width: 180px; margin-top: -70px;}
+ 
+ .box11 {margin:auto; background: rgb(30, 63, 245); color:white; width: 350px; height: 550px;
+        text-decoration: none }
+ 
+.marshall {width: 280px; margin-top: -70px; }
  
  
 
