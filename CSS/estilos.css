@@ -57,6 +57,9 @@ body {background: rgb(231, 231, 231);}
    }
 
    .titlex{font-size: 36px;}
+ 
+
+
    /**/
    .title11{font-size: 48px solid black;}
 
@@ -102,7 +105,17 @@ body {background: rgb(231, 231, 231);}
 .mrbean2{width: 320px; margin-top: -55px; }
 
 
- 
+ /**/
+
+ .title15{font-size: 48px solid black;}
+
+.rocky1{width: 220px; margin-top: -40px; margin-left: -5px;}
+
+.box15  {width: 350px; height: 550px; margin:auto; background: #f8b4a1; color:#f7f1ec; 
+   text-decoration: none }
+
+.rocky2{width: 480px; margin-top: -45px;margin-left: -70px;}
+
  
 
  
