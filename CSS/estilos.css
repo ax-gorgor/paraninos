@@ -125,5 +125,12 @@ body {background: rgb(231, 231, 231);}
  .box16  {width: 350px; height: 550px; margin:auto; background: #fdeaac; color:#ec6569; 
     text-decoration: none }
  
+#imagen{
+   width: 400px;
+   transition: width 4s;}
+
+#imagen:hover{width: 600px;}
+
  .minnie2{width: 480px; margin-top: -45px;margin-left: -70px;}
  
+
