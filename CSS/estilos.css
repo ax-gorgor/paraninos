@@ -68,7 +68,9 @@ body {background: rgb(231, 231, 231);}
     .box11  {width: 350px; height: 550px; margin:auto; background: #e04d3b; color:white; 
            text-decoration: none }
     
-   .ululette1 {width: 480px; margin-top: -50px; margin-left: -50px; }
+   .ululette1 {width: 480px; margin-top: -50px; margin-left: -50px; 
+   
+   }
 
    /**/
 
@@ -118,12 +120,29 @@ body {background: rgb(231, 231, 231);}
 
  /**/
 
- .title16{font-size: 48px solid black;}
+ .title16 {font-size: 48px solid black;}
 
  .minnie1{width: 200px; margin-top: -40px; margin-left: -5px;}
  
  .box16  {width: 350px; height: 550px; margin:auto; background: #fdeaac; color:#ec6569; 
-    text-decoration: none }
+          text-decoration: none }
+
+.minnie2 {width: 400px; margin-top: -45px; margin-left: -45px;}
+
+    /**/
+
+
+    .title17{font-size: 48px solid black;}
+
+    .vampirina1{width: 160px; margin-top: -60px; margin-left: -5px;}
+    
+    .box17  {width: 250px; height: 550px; margin:auto; background: #d90011; color:#f5c6c8; 
+       text-decoration: none }
+
+   .vampirina2{width: 300px; margin-top: -60px; margin-left: -30px;}    
+
+
+
  
 #imagen{
    width: 400px;
@@ -131,6 +150,6 @@ body {background: rgb(231, 231, 231);}
 
 #imagen:hover{width: 600px;}
 
- .minnie2{width: 480px; margin-top: -45px;margin-left: -70px;}
+ 
  
 
