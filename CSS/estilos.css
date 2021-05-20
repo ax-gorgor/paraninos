@@ -63,7 +63,7 @@ body {background: rgb(231, 231, 231);}
    /**/
    .title11{font-size: 48px solid black;}
 
-   .ululette{width: 220px; margin-top: -70px;}
+   .ululette{width: 220px; margin-top: -70px; }
     
     .box11  {width: 350px; height: 550px; margin:auto; background: #e04d3b; color:white; 
            text-decoration: none }
@@ -93,7 +93,7 @@ body {background: rgb(231, 231, 231);}
 .box13  {width: 350px; height: 550px; margin:auto; background: #78c76e; color:white; 
    text-decoration: none }
 
-.peppa3{width: 320px; margin-top: -75px; }
+.peppa3{width: 320px; margin-top: -75px; margin-left: -15px; }
 
 /**/
 
@@ -116,7 +116,7 @@ body {background: rgb(231, 231, 231);}
 .box15  {width: 350px; height: 550px; margin:auto; background: #f8b4a1; color:#f7f1ec; 
    text-decoration: none }
 
-.rocky2{width: 480px; margin-top: -45px;margin-left: -70px;}
+.rocky2{width: 480px; margin-top: -45px;margin-left: -50px;}
 
  /**/
 
@@ -127,28 +127,79 @@ body {background: rgb(231, 231, 231);}
  .box16  {width: 350px; height: 550px; margin:auto; background: #fdeaac; color:#ec6569; 
           text-decoration: none }
 
-.minnie2 {width: 400px; margin-top: -45px; margin-left: -45px;}
+.minnie2 {width: 400px; margin-top: -45px; margin-left: -65px;}
 
     /**/
 
 
-    .title17{font-size: 48px solid black;}
+    .Title17{font-size: 40px ; margin-left: -10px;}
 
     .vampirina1{width: 160px; margin-top: -60px; margin-left: -5px;}
     
     .box17  {width: 250px; height: 550px; margin:auto; background: #d90011; color:#f5c6c8; 
        text-decoration: none }
 
-   .vampirina2{width: 300px; margin-top: -60px; margin-left: -30px;}    
+   .vampirina2{width: 300px; margin-top: -60px; margin-left: -30px;margin-bottom: -5px;}    
 
 
 
  
-#imagen{
+#imagen0{
    width: 400px;
    transition: width 4s;}
 
-#imagen:hover{width: 600px;}
+#imagen0:hover{width: 600px;}
+
+
+#container0{
+   width: 400px;
+   transition: width 4s;}
+
+#container0:hover{width: 600px;}
+
+
+
+
+
+
+#imagen1{
+   width: 280px;
+   transition: width 2s;}
+
+#imagen1:hover{width: 310px;}
+
+#imagen2{
+   width: 300px;
+   transition: width 2.5s;}
+
+#imagen2:hover{width: 350px;}
+
+#imagen3{
+   width: 300px;
+   transition: width 2.5s;}
+
+#imagen3:hover{width: 350px;}
+
+
+#imagen4{
+   width: 400px;
+   transition: width 2s;}
+
+#imagen4:hover{width: 500px;}
+
+
+#imagen5{
+   width: 400px;   
+   transition: width 3s;}
+
+#imagen5:hover{width: 600px; }
+
+#imagen6{
+   width: 303px;   
+   transition: width 3s;}
+
+#imagen6:hover{width: 400px; }
+
 
  
  
