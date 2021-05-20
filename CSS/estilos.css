@@ -141,9 +141,21 @@ body {background: rgb(231, 231, 231);}
 
    .vampirina2{width: 300px; margin-top: -60px; margin-left: -30px;margin-bottom: -5px;}    
 
+/**/
+
+.Title18{font-size: 32px ; margin-left: -10px;}
+
+.lasirenita1{width: 160px; margin-top: -60px; margin-left: -5px;}
+
+.box18  {width: 250px; height: 550px; margin:auto; background: #d90011; color:#f5e9e9; 
+   text-decoration: none }
+
+.lasirenita2{width: 300px; margin-top: -50px; margin-left: -20px;margin-bottom: -5px;}
 
 
- 
+/**/
+
+
 #imagen0{
    width: 400px;
    transition: width 4s;}
@@ -199,6 +211,13 @@ body {background: rgb(231, 231, 231);}
    transition: width 3s;}
 
 #imagen6:hover{width: 400px; }
+
+
+#imagen7{
+   width: 300px;   
+   transition: width 3s;}
+
+#imagen7:hover{width: 350px; }
 
 
  
