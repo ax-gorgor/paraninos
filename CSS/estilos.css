@@ -104,7 +104,18 @@ body {background: rgb(231, 231, 231);}
 .box14  {width: 350px; height: 550px; margin:auto; background: #c21310; color:#f8e3d2; 
    text-decoration: none }
 
-.mrbean2{width: 320px; margin-top: -55px; }
+.mrbean2{width: 320px; margin-top: 55px; }
+
+ul{padding: 5px;  top:50%; left: 50%;   
+    transform: translateX(20%) translateY(40%);}
+
+ul li{list-style: none; float: left;
+       transition: 1s;}
+
+       ul:hover li{transform: rotateY(360deg);}
+
+
+
 
 
  /**/
