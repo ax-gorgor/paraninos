@@ -231,6 +231,63 @@ ul li{list-style: none; float: left;
 #imagen7:hover{width: 350px; }
 
 
+ /*burbujas*/
+
+ .burbuja{
+            position: absolute
+            ; bottom: -150%;
+            
+         animation: burbujas 3s linear infinite;
+         }
+
+.burbuja:nth-child(1){font-size: 30px; left: 5%;
+                      animation-duration: 7s; animation-delay: 3s;}
+
+.burbuja:nth-child(2){font-size: 50px; left: 35%;
+                       animation-duration: 5s; animation-delay: 5s;}
+                       
+.burbuja:nth-child(3){font-size: 30px; left: 85%;
+   animation-duration: 6s; animation-delay: 2s;}
+   
+.burbuja:nth-child(4){font-size: 35px; left: 65%;
+   animation-duration: 7s; animation-delay: 2.3s;}
+   
+.burbuja:nth-child(5){font-size: 30px; left: 55%;
+   animation-duration: 4s; animation-delay: 3.8s;}
+
+   .burbuja:nth-child(6){font-size: 50px; left: 25%;
+      animation-duration: 9s; animation-delay: 3.5s;}
+
+      .burbuja:nth-child(7){font-size: 25px; left: 50%;
+         animation-duration: 10s; animation-delay: 2.5s;}
+
+         .burbuja:nth-child(8){font-size: 38px; left: 15%;
+            animation-duration: 6s; animation-delay: 0.5s;}
+
+            .burbuja:nth-child(9){font-size: 28px; left: 47%;
+               animation-duration: 8s; animation-delay: 1s;}
+
+               .burbuja:nth-child(10){font-size: 40px; left: 72%;
+                  animation-duration: 6s; animation-delay: 3s;}
+
+
+
  
- 
+         @keyframes burbujas{
+            0%{
+                   bottom: 0;
+                   opacity: 0;
+
+
+            } 30%{transform: translateX(30px);}
+            50%{  opacity: .2; 
+
+
+            }
+             100%{
+                bottom: 100vh;
+                opacity: 0;
+
+             }
+         }
 
